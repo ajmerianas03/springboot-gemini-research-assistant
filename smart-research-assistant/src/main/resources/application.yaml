@@ -1,0 +1,9 @@
+gemini:
+  api:
+    key: ${GEMINI_API_KEY}
+  model:
+    name: gemini-2.5-flash
+
+spring:
+  application:
+    name: smart-research-assistant
